@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/aldiralcala//">Aldir Alcala</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/aldiralcala//">Aldir Alcala</a>'s IT and Cybersecurity Portfolio 🔐
 
 I'm passionate about cybersecurity and love reading and writing and getting into real challenges. From vulnerability management to GRC, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
@@ -9,8 +9,9 @@ I'm passionate about cybersecurity and love reading and writing and getting into
 - **[Programmatic-vulnerability-remediations](https://github.com/21Aldir/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
+https://github.com/21Aldir/threat-hunting-scenario-tor
 
-- **[Cooming Soon)]**
+- - **[Threat-Hunt-TOR](https://github.com/21Aldir/threat-hunting-scenario-tor)**
 
 <hr/>
 

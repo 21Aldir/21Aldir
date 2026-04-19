@@ -10,7 +10,7 @@ I'm passionate about cybersecurity and love reading and writing and getting into
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat-Hunt-TOR](https://github.com/21Aldir/threat-hunting-scenario-tor)**
+- **[Unauthorized-TOR-Usage](https://github.com/21Aldir/threat-hunting-scenario-tor)**
 
 <hr/>
 

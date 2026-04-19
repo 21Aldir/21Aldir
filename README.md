@@ -9,9 +9,8 @@ I'm passionate about cybersecurity and love reading and writing and getting into
 - **[Programmatic-vulnerability-remediations](https://github.com/21Aldir/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
-https://github.com/21Aldir/threat-hunting-scenario-tor
 
-- - **[Threat-Hunt-TOR](https://github.com/21Aldir/threat-hunting-scenario-tor)**
+- **[Threat-Hunt-TOR](https://github.com/21Aldir/threat-hunting-scenario-tor)**
 
 <hr/>
 

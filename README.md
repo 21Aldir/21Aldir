@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love reading and writing.  From vulnerabi
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/21Aldir/vulnerability-management-program-)**
-- **[Programmatic-vulnerability-remediations](https://github.com/21Aldir/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/21Aldir/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 

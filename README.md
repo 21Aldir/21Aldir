@@ -18,14 +18,7 @@ I'm passionate about cybersecurity and love reading and writing.  From vulnerabi
 
 <hr/>
 
-## 🤳 Connect With Me
 
-
-
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[instagram]: https://www.instagram.com/aldir.alcala/
 
 
 <!--

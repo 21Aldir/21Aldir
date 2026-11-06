@@ -2,9 +2,6 @@
 
 I'm passionate about cybersecurity and love reading and writing.  From vulnerability management to GRC, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-## 🤖 AI Agent Projects
-
-- **[Baymax(AI GRC Agent)](https://github.com/21Aldir/Baymax)**
 
 ## ⚠️ Vulnerability Management Projects
 

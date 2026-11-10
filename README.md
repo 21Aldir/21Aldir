@@ -1,7 +1,8 @@
 # <a href="https://www.linkedin.com/in/aldiralcala//">Aldir Alcala</a>'s IT and Cybersecurity Portfolio 🔐
 
 I'm passionate about cybersecurity and love reading and writing.  From vulnerability management to GRC, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
-
+## ⚠️ AI Automation Proyecet
+- **[AI GRC Agent Baymax](https://github.com/Hector2304/Baymax)**
 
 ## ⚠️ Vulnerability Management Projects
 
